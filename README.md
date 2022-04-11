@@ -1,2 +1,2 @@
 # Andrej Nedilskej
-:computer:* core stack: Flask
+* :computer:core stack: Flask
