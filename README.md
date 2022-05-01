@@ -1,3 +1,3 @@
 # Andriy Nedilskej
-* :computer: core stack: **Flask**, **HTML-CSS**
+* :computer: core stack: **Django**, **Flask**, **HTML-CSS-JS**
 *   :newspaper: Instagram | Telegram: @andrew_stoic
