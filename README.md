@@ -4,7 +4,7 @@
 * **frontend stack:** HTML,CSS, JS
 
 
-**My contacts:** gmail [:newspaper:](andrej.nedilskej@gmail.com) | Telegram[:telephone_receiver:](https://t.me/andrew_stoic)
+**My contacts:** [:newspaper:](andrej.nedilskej@gmail.com)gmail | [:telephone_receiver:](https://t.me/andrew_stoic)Telegram
 
 
 
