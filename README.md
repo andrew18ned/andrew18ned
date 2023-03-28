@@ -3,6 +3,7 @@ Backend developer on Python
 * :computer: **core  stack:** Django, Flask, drf 
 * **frontend stack:** HTML,CSS, JS
 *   :newspaper: Instagram | Telegram: @andrew_stoic
+*   [Telegram](https://duckduckgo.com)
 
 
 
