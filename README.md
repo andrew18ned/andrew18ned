@@ -5,5 +5,5 @@
 
 
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css, git,docker,vim)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,git,docker,vim)](https://skillicons.dev)
 
