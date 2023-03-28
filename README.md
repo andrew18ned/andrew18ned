@@ -7,6 +7,7 @@
 
 
 ### Experience
+I like work on linux. I worked with SQL (MySQL, Postgres).
 [![My Skills](https://skillicons.dev/icons?i=git,docker,vim,bash,linux,mysql,nginx,postgres)](https://skillicons.dev)
 
 ### About me
