@@ -5,8 +5,4 @@
 
 
 
-```
-<div style="width:50px; height:50px">
-![image](https://user-images.githubusercontent.com/77886193/228335340-7fc0820b-cab5-48dc-bfdf-b3059bcbeeb4.png)
-</div>
-```
+[![My Skills](https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev)
