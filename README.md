@@ -2,7 +2,8 @@
 :computer:Backend developer on Python
 * **core  stack:** Django, Flask
 * **frontend stack:** HTML,CSS, JS 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,git,docker,vim,bash,django,linux,mysql,nginx,postgres,flask,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=django,flask,js,html,css)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,docker,vim,bash,linux,mysql,nginx,postgres)](https://skillicons.dev)
 
 
 
