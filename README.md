@@ -2,8 +2,7 @@
 :computer:Backend developer on Python
 * **core  stack:** Django, Flask, drf 
 * **frontend stack:** HTML,CSS, JS
-*   :newspaper: Instagram | Telegram: @andrew_stoic
-*   [Telegram](https://t.me/andrew_stoic)
+*   :newspaper: [:email:](andrej.nedilskej@gmail.com) | Telegram: [Telegram](https://t.me/andrew_stoic)
 
 
 
