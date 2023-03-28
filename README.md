@@ -2,7 +2,9 @@
 :computer:Backend developer on Python
 * **core  stack:** Django, Flask, drf 
 * **frontend stack:** HTML,CSS, JS
-* **contacts:** gmail [:newspaper:](andrej.nedilskej@gmail.com) | Telegram[:telephone_receiver:](https://t.me/andrew_stoic)
+
+
+**My contacts:** gmail [:newspaper:](andrej.nedilskej@gmail.com) | Telegram[:telephone_receiver:](https://t.me/andrew_stoic)
 
 
 
