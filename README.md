@@ -1,4 +1,5 @@
 # Andriy Nedilskej
+Backend developer on Python
 * :computer: core backend stack: **Django**, **Flask**, **drf** 
 * frontend stack: **HTML-CSS-JS**
 *   :newspaper: Instagram | Telegram: @andrew_stoic
