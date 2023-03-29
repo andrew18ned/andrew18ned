@@ -7,7 +7,7 @@
 
 
 ### Experience
-I like work on linux. I worked with SQL (MySQL, Postgres).    
+I like work on linux. I worked with SQL (MySQL, Postgres). Deploy projects on web server (Apache, Nginx) and connecting database (MySQL, Postres).
 [![My Skills](https://skillicons.dev/icons?i=git,docker,vim,bash,linux,mysql,nginx,postgres)](https://skillicons.dev)
 
 ### About me
