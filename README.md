@@ -14,7 +14,10 @@ I worked with SQL (MySQL, Postgres). Deploy projects on web server (Apache, Ngin
 [![My Skills](https://skillicons.dev/icons?i=git,docker,nginx,vim,mysql,postgres)](https://skillicons.dev)
 
 ### About me
-My English B1, it doesn't stop me reading the documentations
+My English B1.      
+Run half marathon.   
+Ride on bike 160km.   
+Read 200 books a years. 
 
 ### My contacts: [:newspaper:](https://andrej.nedilskej@gmail.com)gmail |  [:telephone_receiver:](https://t.me/andrew_stoic)Telegram
 
