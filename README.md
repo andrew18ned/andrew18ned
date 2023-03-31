@@ -11,7 +11,7 @@ I like work on linux.
 I work in IDE VScode or Vim. Because it's basic editor in terminal.           
 I created a few telegram bots.    
 I worked with SQL (MySQL, Postgres). Deploy projects on web server (Apache, Nginx) and connecting database (MySQL, Postres).  
-[![My Skills](https://skillicons.dev/icons?i=git,docker,nginx,vim,mysql,postgres)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=docker,nginx,vim,mysql,postgres)](https://skillicons.dev)
 
 ### About me
 My English B1.      
