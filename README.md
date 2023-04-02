@@ -19,8 +19,7 @@ Run half marathon.
 Ride on bike 160km.   
 Read 200 books a years. 
 
-### My contacts: [:newspaper:](https://andrej.nedilskej@gmail.com)gmail |
-<a href="https://t.me/andrew_stoic" title="Follow me on Telegram">
+### My contacts: [:newspaper:](https://andrej.nedilskej@gmail.com)gmail |<a href="https://t.me/andrew_stoic" title="Follow me on Telegram">
     <img
         width="32"
         alt="Follow me on Telegram"
