@@ -10,7 +10,7 @@
 [![My Skills](https://skillicons.dev/icons?i=git,docker,nginx,vim,bash,heroku,linux,mysql,postgres,sqlite,vscode)](https://skillicons.dev)
 
 
-### My contacts:&nbsp;
+### My contacts&nbsp;
 <a href="https://t.me/andrew_stoic" title="Follow me on Telegram">
     <img
         width="32"
