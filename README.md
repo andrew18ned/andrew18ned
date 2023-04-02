@@ -1,7 +1,8 @@
 # Andriy Nedilskej
 :computer:Backend developer on Python
 * **core  stack:** Django, Flask
-* **frontend stack:** HTML,CSS, JS              
+* **frontend stack:** HTML,CSS, JS        
+      
 [![My Skills](https://skillicons.dev/icons?i=django,flask,js,html,css)](https://skillicons.dev)
 
 
