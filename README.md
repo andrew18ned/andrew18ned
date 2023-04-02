@@ -19,7 +19,7 @@
         src="https://raw.githubusercontent.com/maximgrynykha/maximgrynykha/master/assets/icons/telegram.svg"
     /></a>
 &nbsp;
-<a href="andrej.nedilskej@gmail.com" title="Write me to email">
+<a href="https://andrej.nedilskej@gmail.com" title="Write me to email">
     <img
         width="48"
         alt="Write me to email"
