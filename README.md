@@ -13,14 +13,14 @@
 ### My contacts&nbsp;
 <a href="https://t.me/andrew_stoic" title="Follow me on Telegram">
     <img
-        width="32"
+        width="48"
         alt="Follow me on Telegram"
         src="https://raw.githubusercontent.com/maximgrynykha/maximgrynykha/master/assets/icons/telegram.svg"
     /></a>
 &nbsp;
 <a href="andrej.nedilskej@gmail.com" title="Write me to email">
     <img
-        width="32"
+        width="48"
         alt="Write me to email"
         src="https://raw.githubusercontent.com/MaximGrynykha/MaximGrynykha/master/assets/icons/email.svg"
     /></a>
