@@ -21,3 +21,10 @@ Read 200 books a years.
 
 ### My contacts: [:newspaper:](https://andrej.nedilskej@gmail.com)gmail |  [:telephone_receiver:](https://t.me/andrew_stoic)Telegram
 
+<a href="https://t.me/maximgrynykha" title="Follow me on Telegram">
+    <img
+        width="32"
+        alt="Follow me on Telegram"
+        src="https://raw.githubusercontent.com/maximgrynykha/maximgrynykha/master/assets/icons/telegram.svg"
+    /></a>
+&nbsp;
