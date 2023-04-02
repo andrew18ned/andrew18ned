@@ -19,14 +19,14 @@ Run half marathon.
 Ride on bike 160km.   
 Read 200 books a years. 
 
-### My contacts:
+### My contacts:&nbsp;
 <a href="https://t.me/andrew_stoic" title="Follow me on Telegram">
     <img
         width="32"
         alt="Follow me on Telegram"
         src="https://raw.githubusercontent.com/maximgrynykha/maximgrynykha/master/assets/icons/telegram.svg"
     /></a>
-&nbsp;|
+&nbsp;
 <a href="andrej.nedilskej@gmail.com" title="Write me to email">
     <img
         width="32"
