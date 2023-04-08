@@ -8,7 +8,7 @@
 
 
 ### Experience
-[![My Skills](https://skillicons.dev/icons?i=linux,bash,git,docker,vim,nginx,heroku,vscode,py,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=linux,bash,git,docker,vim,nginx,vscode,py,)](https://skillicons.dev)
 
 
 ### My contacts&nbsp;
